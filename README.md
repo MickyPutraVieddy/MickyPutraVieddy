@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micky Putra Vieddy</h1>
-<h3 align="center">I am passionate about Mobile Developer, Currently I am a student at the University of Budi Luhur, and also I am a full-stack Mobile Developer</h3>
+<h3 align="center">I am passionate about Mobile Developer, Currently, I am a student at the University of Budi Luhur, and also I am a full-stack Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickyputravieddy&label=Profile%20views&color=0e75b6&style=flat" alt="mickyputravieddy" /> </p>
 
